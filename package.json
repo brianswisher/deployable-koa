@@ -1,0 +1,23 @@
+{
+  "name": "deployable-koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --harmony server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianswisher/deployable-koa.git"
+  },
+  "author": "Brian Swisher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianswisher/deployable-koa/issues"
+  },
+  "homepage": "https://github.com/brianswisher/deployable-koa#readme",
+  "dependencies": {
+    "koa": "^1.1.2"
+  }
+}
